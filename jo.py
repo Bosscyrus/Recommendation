@@ -59,3 +59,5 @@ def samlpe_recommendation(model, data, user_ids):
             
            # lets use a ransom number of uder ids 
 samlpe_recommendation(model, data, [3, 25, 450])
+
+#so from here it can deployed to a website
